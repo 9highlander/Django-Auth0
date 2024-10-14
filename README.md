@@ -34,7 +34,10 @@ pip install -r requirements.txt
 ```
 
 ## Getting Started
-fun followig command on terminal 
+1)Register an account on https://auth0.com/ 
+2)Rename .env_example as .env and fill with your data
+3)Rename .credential_example as .credntial and fill with your data
+4)run followig command on terminal 
 
 ```sh
 python manage.py runserver
