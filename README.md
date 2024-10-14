@@ -34,7 +34,9 @@ pip install -r requirements.txt
 ```
 
 ## Getting Started
+fun followig command on terminal 
 
 ```sh
 python manage.py runserver
-```sh
+```
+then open the link
