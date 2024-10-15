@@ -49,4 +49,6 @@ python manage.py migrate
 ```sh
 python manage.py runserver
 ```
-then open the link
+then open the link on your browser
+![image](https://github.com/user-attachments/assets/a77a7bcf-6f8f-4af5-99ec-131551d34e4c)
+
