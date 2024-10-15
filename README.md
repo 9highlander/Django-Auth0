@@ -40,7 +40,10 @@ pip install -r requirements.txt
 
 3)Rename .credential_example as .credntial and fill with your data
 
-4)run followig command on terminal 
+4)run followings command on terminal 
+```sh
+python manage.py migrate'
+```
 
 ```sh
 python manage.py runserver
